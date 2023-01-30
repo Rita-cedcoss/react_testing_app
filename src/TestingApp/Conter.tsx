@@ -12,7 +12,6 @@ const Conter = () => {
         {
             setCount(count-1);
         }
- 
     }
   return (
     <div className="col-6 m-auto text-center mt-5">
